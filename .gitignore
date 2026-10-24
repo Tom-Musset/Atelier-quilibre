@@ -1,0 +1,12 @@
+﻿# Installation locale WordPress / Local
+app/
+conf/
+logs/
+
+# Dépendances Node
+node_modules/
+
+# Fichiers temporaires et sauvegardes
+*.log
+*.sql
+*.zip
